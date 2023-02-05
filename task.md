@@ -1,7 +1,7 @@
 # MEAN stack coding task
 Welcome to Unvoid Tech MEAN stack coding task.
 
-![Jigsaw](https://ibb.co/rQHFdYn)
+![Jigsaw](https://ibb.co/rQHFdYn](https://i.ibb.co/4FpK1zB/Screenshot-20230205-104711.png)
 
 ## The task
 Create a simple CRUD (Create, Read, Update, Delete) application for managing a collection of books.
@@ -18,9 +18,9 @@ You can find specific acceptance criteria below.
 3. The books collection should be stored in a MongoDB database.
 4. The application should be built using the MEAN stack (MongoDB, Express, Angular, Node.js).
 5. The code should be properly organized and follow best practices for maintainability and scalability.
-6. The code should be submitted as a GitHub repository with clear documentation.
-7. (Optional) The application should be deployed to a test server and the link to the deployed application should be provided.
-8. Clear documentation on how to run the application locally should be added in README.md
+6. The code should be submitted as a GitHub repository with clear documentation on how to run the application locally should be added in README.md.
+7. Provide the GitHub repository link via email within 24 hours of receiving the task.
+8. (Optional) The application should be deployed to a test server and the link to the deployed application should be provided.
 
 ## Ground rules
 1. The solution should be coded in TypeScript. Styling should be done in CSS or SCSS. Your choice.
