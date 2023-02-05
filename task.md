@@ -1,7 +1,7 @@
 # MEAN stack coding task
 Welcome to Unvoid Tech MEAN stack coding task.
 
-![Jigsaw](https://ibb.co/rQHFdYn](https://i.ibb.co/4FpK1zB/Screenshot-20230205-104711.png)
+![Jigsaw](https://i.ibb.co/4FpK1zB/Screenshot-20230205-104711.png)
 
 ## The task
 Create a simple CRUD (Create, Read, Update, Delete) application for managing a collection of books.
