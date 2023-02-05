@@ -11,10 +11,10 @@ You can find specific acceptance criteria below.
 ### Acceptance Criteria
 1. The application should have a simple and clean user interface.
 2. On the main page, users should be able to view a list of all books, perform the following actions:
-      a. Add a new book
-      b. Edit an existing book
-      c. View details of a book
-      d. Delete a book
+      * a. Add a new book
+      * b. Edit an existing book
+      * c. View details of a book
+      * d. Delete a book
 3. The books collection should be stored in a MongoDB database.
 4. The application should be built using the MEAN stack (MongoDB, Express, Angular, Node.js).
 5. The code should be properly organized and follow best practices for maintainability and scalability.
